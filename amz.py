@@ -1,5 +1,7 @@
 import requests
 
+# Jangan Di Recode Ya Bossku
+# Tinggal  Make Aja Apa Susahnya Sih :)
 # options output live dan die
 
 live = open('Amz-Live.txt','w')
