@@ -1,0 +1,2 @@
+# amzmail
+Amazon Email Checker
